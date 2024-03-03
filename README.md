@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmire&label=Profile%20views&color=0e75b6&style=flat" alt="azmire" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmire" alt="azmire" /></a> </p>
+
 
 - 🌱 I’m on a mission to explore the realms of full stack development, with a particular emphasis on the MERN (MongoDB, Express.js, React.js, Node.js) stack. As I delve deeper into the world of backend development, I'm excited to leverage my frontend expertise to build seamless, end-to-end solutions.
 
